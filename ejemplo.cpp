@@ -6,5 +6,6 @@
     std::cout << x << "hola mundo" << '\n';
     x++;
    }
+   std::cout << "Gracias" << '\n';
   return 0;
 }
